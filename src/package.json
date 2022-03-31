@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest"
+  }
+}
